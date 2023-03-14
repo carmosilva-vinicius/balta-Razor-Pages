@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "a0atqoxUmiRMPNYcjyEZLLqh9jN2ajsHo7S6u3hA5D0=",
+  "Source": "MyRazorApp",
+  "BasePath": "_content/MyRazorApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MyRazorApp\\wwwroot",
+      "Source": "MyRazorApp",
+      "ContentRoot": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
