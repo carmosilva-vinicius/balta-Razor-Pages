@@ -27,3 +27,5 @@ C:\Users\carmo\OneDrive\Documentos\temp\dotnet\MyRazorApp\obj\Debug\net7.0\ref\M
 C:\Users\carmo\OneDrive\Documentos\temp\dotnet\MyRazorApp\bin\Debug\net7.0\MyRazorApp.staticwebassets.runtime.json
 C:\Users\carmo\OneDrive\Documentos\temp\dotnet\MyRazorApp\obj\Debug\net7.0\MyRazorApp.RazorAssemblyInfo.cache
 C:\Users\carmo\OneDrive\Documentos\temp\dotnet\MyRazorApp\obj\Debug\net7.0\MyRazorApp.RazorAssemblyInfo.cs
+C:\Users\carmo\OneDrive\Documentos\temp\dotnet\MyRazorApp\obj\Debug\net7.0\scopedcss\Pages\About.cshtml.rz.scp.css
+C:\Users\carmo\OneDrive\Documentos\temp\dotnet\MyRazorApp\obj\Debug\net7.0\scopedcss\projectbundle\MyRazorApp.bundle.scp.css

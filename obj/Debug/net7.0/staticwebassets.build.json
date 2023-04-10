@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "a0atqoxUmiRMPNYcjyEZLLqh9jN2ajsHo7S6u3hA5D0=",
+  "Hash": "u5JWyO3QaJwtN8C9OLabkHxR7HHwU8cXiVW0fcIHL08=",
   "Source": "MyRazorApp",
   "BasePath": "_content/MyRazorApp",
   "Mode": "Default",
@@ -15,5 +15,74 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyRazorApp.styles.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\MyRazorApp.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "MyRazorApp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyRazorApp.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\wwwroot\\css\\site.css",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\wwwroot\\js\\site.js",
+      "SourceId": "MyRazorApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\carmo\\OneDrive\\Documentos\\temp\\dotnet\\MyRazorApp\\wwwroot\\",
+      "BasePath": "_content/MyRazorApp",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
 }

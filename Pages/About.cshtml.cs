@@ -2,15 +2,23 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Globalization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.Logging;
 
 namespace MyRazorApp.Pages
 {
-    public class Index : PageModel
+    public class About : PageModel
     {
-        public void OnGet(){}
+        private readonly ILogger<About> _logger;
+
+        public About(ILogger<About> logger)
+        {
+            _logger = logger;
+        }
+
+        public void OnGet()
+        {
+        }
     }
 }
